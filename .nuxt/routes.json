@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Cards",
+    "path": "/Cards",
+    "component": "/home/chirag/Desktop/relevant/pages/Cards.vue",
+    "chunkName": "pages/Cards",
+    "_name": "_301c75d6"
+  },
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/home/chirag/Desktop/relevant/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_091056ac"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/chirag/Desktop/relevant/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4ded9724"
+  }
+]

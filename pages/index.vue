@@ -2,7 +2,7 @@
   <div> <Cards v-bind:articles="articles"/></div>
 </template>
 
-<script lang="ts">
+<script >
 import axios from "axios";
 import Cards from "./Cards.vue";
 
